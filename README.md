@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aji214&langs_count=8)
-
-
-
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=aji214&theme=onedark&column=9" alt="zumrudu-anka" />
-    </a>
+<div align=right>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aji214&langs_count=20&theme=highcontrast&layout=compact&custom_title=Most used languages on GitHub" />
+</a>
 </div>
+
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=aji214&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true"/>
+ </a>
+ 
+
+
+
+
